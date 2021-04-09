@@ -11,10 +11,10 @@
 
 <div align="center"><h3>Connect with me:</h2></div>
 
-[<div align="center"><img align="center" alt="Dushyant Goyal | Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1617948465~hmac=bff2adb92df2c59adaddb6a105a95c1c" />][twitter]
-[<img align="center" alt="Dushaynt Goyal | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617948495~hmac=79e2312425b7c5b4a070cb87268ddef2" />][linkedin]
-[<img align="center" alt="Dushyant Goyal | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1617948523~hmac=2c39be5b375ff4e9cc6817b83b2dc513" />][instagram]
-[<img align="center" alt="Dushyant Goyal | Github" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1617948552~hmac=fae8ed7f961004496e060721a992e052" />][GITHUB]<br>
+[<div align="center"><img align="center" alt="Dushyant Goyal | Twitter" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.designbust.com%2Fdownload%2F636%2Fthumb%2Ftwitter_logo_transparent_png_thum.png&f=1&nofb=1" />][twitter]
+[<img align="center" alt="Dushaynt Goyal | LinkedIn" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.vectorico.com%2Fwp-content%2Fuploads%2F2018%2F02%2FLinkedIn-Icon.png&f=1&nofb=1" />][linkedin]
+[<img align="center" alt="Dushyant Goyal | Instagram" width="22px" src="https://wie.ieee.org/wp-content/uploads/2019/06/instagram-Logo-PNG-Transparent-Background-download-768x768.png" />][instagram]
+[<img align="center" alt="Dushyant Goyal | Github" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdl2.macupdate.com%2Fimages%2Ficons256%2F39062.png%3Fd%3D1522354604&f=1&nofb=1" />][GITHUB]<br>
 
 ### Languages:
 
@@ -26,7 +26,7 @@
 [<div align="center"><img align="center" alt="Visual Studio Code" width="35px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9a%2FVisual_Studio_Code_1.35_icon.svg%2F1200px-Visual_Studio_Code_1.35_icon.svg.png&f=1&nofb=1" />][VS Code]
 [<img align="center" alt="Atom" width="35px" src="http://4.bp.blogspot.com/-V3vQXRn-OXs/VY_JH119nNI/AAAAAAAAXPE/XxjFVT8skck/s1600/atom-icon.png" />][Atom]
 [<img align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="center" alt="GitHub" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1617948552~hmac=fae8ed7f961004496e060721a992e052" />][Github]
+[<img align="center" alt="GitHub" width="35px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdl2.macupdate.com%2Fimages%2Ficons256%2F39062.png%3Fd%3D1522354604&f=1&nofb=1" />][Github]
 [<img align="center" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="center" alt="Flutter" width="35px" src="https://juststickers.in/wp-content/uploads/2019/01/flutter.png" />][Flutter]
 <br />
